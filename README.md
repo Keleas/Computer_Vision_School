@@ -25,65 +25,67 @@
 	* Методы пороговых значений, бинаризация изображения
 	* Понятие свертки
 	* Морфологические операции
+    * Пирамиды изображений
 
 4. [Contours processing](https://github.com/Keleas/Computer_Vision_School/tree/master/04.%20Contours%20processing)
 	* Производные в виде свертки
 	* Границы: оператор Лапласа и детектор границ Кенни
 	* Контуры: особенности применения
 	* Преобразование Хафа
+    * Гистограмма направленных градиентов (HOG)
 
-5. [Feature extractions](https://github.com/Keleas/Computer_Vision_School/tree/master/05.%20Feature%20extractions)
-	*
-	*
+5. [*Feature extractions](https://github.com/Keleas/Computer_Vision_School/tree/master/05.%20Feature%20extractions)
+	* Понятие особой точки
+	* Corner detectors
+    * Harris Corner Detection
+    * Shi-Tomasi Corner Detector
+    * Introduction to SIFT&SURF
 
-6. [Signal processing](https://github.com/Keleas/Computer_Vision_School/tree/master/06.%20Signal%20processing)
-	*
-	*
 
 ## Задания
 
 ### Задание 1:
 
-[Условие]()
+[Условие](https://github.com/Keleas/Computer_Vision_School/tree/master/01.%20Images%2C%20OpenCV)
 
-#### Дата выдачи:
+#### Дата выдачи: 9 янв 2020
 
 #### Дедлайны:
-* Задача №1 — Х янв 23:59
-* Задача №2 — Х янв 23:59
+* Задача №1 — 10 янв 23:59
+* Задача №2 — 10 янв 23:59
 
 
-### Задание 2:
+### Задание 2: 9 янв 2020
 
-[Условие]()
+[Условие](https://github.com/Keleas/Computer_Vision_School/tree/master/02.%20Color%20processing)
 
 #### Дата выдачи: 
 
 #### Дедлайны:
-* Задача №1 - Х янв 23:59 
-* Задача №2 - Х янв 23:59
+* Задача №1 - 10 янв 23:59 
+* Задача №2 - 10 янв 23:59
 
 
-### Задание 3:
+### Задание 3: 10 янв 2020
 
-[Условие]()
-
-#### Дата выдачи: 
-
-#### Дедлайны:
-* Задача №1 - Х янв 23:59
-* Задача №2 - Х янв 23:59
-
-
-### Задание 4:
-
-[Условие]()
+[Условие](https://github.com/Keleas/Computer_Vision_School/tree/master/03.%20Simple%20features)
 
 #### Дата выдачи: 
 
 #### Дедлайны:
-* Задача №1 - Х янв 23:59
-* Задача №2 - Х янв 23:59
+* Задача №1 - 12 янв 23:59
+* Задача №2 - 12 янв 23:59
+
+
+### Задание 4: 10 янв 2020 
+
+[Условие](https://github.com/Keleas/Computer_Vision_School/tree/master/04.%20Contours%20processing)
+
+#### Дата выдачи: 
+
+#### Дедлайны:
+* Задача №1 - 12 янв 23:59
+* Задача №2 - 12 янв 23:59
 
 
 
